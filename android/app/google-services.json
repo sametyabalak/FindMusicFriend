@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224150887714",
+    "firebase_url": "https://onlinemusicapp-ed637.firebaseio.com",
+    "project_id": "onlinemusicapp-ed637",
+    "storage_bucket": "onlinemusicapp-ed637.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224150887714:android:4680867c77d8386394997b",
+        "android_client_info": {
+          "package_name": "com.example.musicapp_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224150887714-rls10lthah5rjj0usvdne2qu4rnkhjs1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicapp_flutter",
+            "certificate_hash": "d07270ef026a85a7c773ccfc88ac1edac4c03f4a"
+          }
+        },
+        {
+          "client_id": "224150887714-qoc4rt0emfe6195oa0kl3gc0bo34ej09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbHEXTlnjDcifIFPPbKFxFqm9GyV7PXfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224150887714-qoc4rt0emfe6195oa0kl3gc0bo34ej09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
